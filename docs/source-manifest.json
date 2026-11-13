@@ -1,0 +1,205 @@
+[
+  {
+    "url": "https://coregestaodesaude.com.br/",
+    "file": "public/index.html",
+    "type": "text/html",
+    "bytes": 20745,
+    "sha256": "887bbf0d60beba683ff73769db9b3c65f4d99471bfbe1f8ef6053bf685a69290"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/assets/symbol.svg",
+    "file": "public/assets/symbol.svg",
+    "type": "image/svg+xml",
+    "bytes": 19315,
+    "sha256": "a33f941356b02e38fdf009e5aca34753a860fc24ae7312997c3546a7c8273276"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/assets/manrope-vf.woff2",
+    "file": "public/assets/manrope-vf.woff2",
+    "type": "font/woff2",
+    "bytes": 24532,
+    "sha256": "8c2def024c1bf31aacf3624ae3c4d701269b4ec3dc765c04830839f0d36b2d9e"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/assets/style.css",
+    "file": "public/assets/style.css",
+    "type": "text/css",
+    "bytes": 39003,
+    "sha256": "bfad37539ad2d9a02133b994d54bad2e6919590790f680225465726cf98081bf"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/assets/site.js",
+    "file": "public/assets/site.js",
+    "type": "application/javascript",
+    "bytes": 3396,
+    "sha256": "347480b75b55204d626dbe8afeae6315a3631fc73dbf2ef2afe0384c2baeb005"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/assets/logo.svg",
+    "file": "public/assets/logo.svg",
+    "type": "image/svg+xml",
+    "bytes": 19771,
+    "sha256": "f017d0dd229603df734e0498b054ebb25ffc57723417f9c77c11467212e923cb"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/a-core/",
+    "file": "public/a-core/index.html",
+    "type": "text/html",
+    "bytes": 13171,
+    "sha256": "5f5927caa09164b5295eb484897e29b233dc4009cd5963738b12311bd2149ed3"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/solucoes/gestao-da-saude/",
+    "file": "public/solucoes/gestao-da-saude/index.html",
+    "type": "text/html",
+    "bytes": 13876,
+    "sha256": "bf5715236f52225545c7f3be477b94cd6c013918b1c3d8606199f4d18c0d5400"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/solucoes/servicos-medicos/",
+    "file": "public/solucoes/servicos-medicos/index.html",
+    "type": "text/html",
+    "bytes": 13929,
+    "sha256": "080a26a8524427bf53e6de881fac7d751ae0a5bb7b39e53f59ea3b46b4ba6512"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/solucoes/engenharia-clinica/",
+    "file": "public/solucoes/engenharia-clinica/index.html",
+    "type": "text/html",
+    "bytes": 14000,
+    "sha256": "4fae3180c7590333731352fceeba2085536162456522956eecb9839e8ee04d84"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/solucoes/cme/",
+    "file": "public/solucoes/cme/index.html",
+    "type": "text/html",
+    "bytes": 14017,
+    "sha256": "a681e121264dfae61975219846551e30e49594d980ae70b768075fa87d632620"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/solucoes/lavanderia-hospitalar/",
+    "file": "public/solucoes/lavanderia-hospitalar/index.html",
+    "type": "text/html",
+    "bytes": 13999,
+    "sha256": "ce3c350e75a8298bc7037815f211826470ec903ac93630ee39d73d3c137bbcc4"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/solucoes/",
+    "file": "public/solucoes/index.html",
+    "type": "text/html",
+    "bytes": 16425,
+    "sha256": "14bd6480967678f8063be6ec3b1e2c3ebc6a1548ab99a04c348d6d46f8aeb1d8"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/como-atuamos/",
+    "file": "public/como-atuamos/index.html",
+    "type": "text/html",
+    "bytes": 12011,
+    "sha256": "9dea4bb71b99a1715c69b2686c7c23c738c25a8937f45cbfd77b27d3d7f0b97d"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/conteudos/",
+    "file": "public/conteudos/index.html",
+    "type": "text/html",
+    "bytes": 12098,
+    "sha256": "5ed224769a26d90d466c18d94b2388265ce0859cf5521363426407d5a825aebe"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/contato/",
+    "file": "public/contato/index.html",
+    "type": "text/html",
+    "bytes": 14075,
+    "sha256": "7759dbc6602662ea7104c00802ed2b614db540469a8b0822de50ddc1649a817f"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/assets/surgery.jpg",
+    "file": "public/assets/surgery.jpg",
+    "type": "image/jpeg",
+    "bytes": 333544,
+    "sha256": "b5e9c04c36ce780e06238fcac8f4c34c0019a2b39ac3ada736489bc5963d6a0a"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/assets/hero.jpg",
+    "file": "public/assets/hero.jpg",
+    "type": "image/jpeg",
+    "bytes": 206429,
+    "sha256": "c8c26b93cc5deca7a70fafb99b411680dec1857209d9ef96f8cadc44df615950"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/assets/care.jpg",
+    "file": "public/assets/care.jpg",
+    "type": "image/jpeg",
+    "bytes": 171732,
+    "sha256": "b85e0134d29a5c9229d69018f6bccd061c680c81522b7b716520dc1934e32592"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/conteudos/engenharia-clinica-alem-da-manutencao/",
+    "file": "public/conteudos/engenharia-clinica-alem-da-manutencao/index.html",
+    "type": "text/html",
+    "bytes": 11920,
+    "sha256": "2d6b7e5b80c2e92428ac1363b333269d1fc2e8fe0288c1d7b41bbed089834a94"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/assets/technology.jpg",
+    "file": "public/assets/technology.jpg",
+    "type": "image/jpeg",
+    "bytes": 129044,
+    "sha256": "8887c340ea2798e9f3519ba00c83d9748ea2e92b11d15710acc34f82d8c60712"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/conteudos/cme-rastreabilidade-e-gestao/",
+    "file": "public/conteudos/cme-rastreabilidade-e-gestao/index.html",
+    "type": "text/html",
+    "bytes": 11882,
+    "sha256": "b2607cd4001520f1c0af28d3d11234e8f58fb211b32aa56d925db4b622b01df7"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/conteudos/lavanderia-gestao-do-enxoval/",
+    "file": "public/conteudos/lavanderia-gestao-do-enxoval/index.html",
+    "type": "text/html",
+    "bytes": 11831,
+    "sha256": "dcc14799f31ce3b5269d2799c6816993351719ee83a029a7cb024d07d7bb4a10"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/assets/laundry-industrial.jpg",
+    "file": "public/assets/laundry-industrial.jpg",
+    "type": "image/jpeg",
+    "bytes": 348742,
+    "sha256": "63832b86810f58ec18b6b11ce745fbf9cffc7c485919eda4ec2fc107c370254d"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/assets/logo-white.svg",
+    "file": "public/assets/logo-white.svg",
+    "type": "image/svg+xml",
+    "bytes": 19771,
+    "sha256": "5653cbd342e0ce85cac77236e011dfa357d8c858343334b88d000121ad943feb"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/qualidade/",
+    "file": "public/qualidade/index.html",
+    "type": "text/html",
+    "bytes": 11682,
+    "sha256": "e05f61d6170f925c7552755a38b0f95a81b9d6b4048944936df81fcb179ffc12"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/trabalhe-conosco/",
+    "file": "public/trabalhe-conosco/index.html",
+    "type": "text/html",
+    "bytes": 9858,
+    "sha256": "201a27ce79a32955b036dc2a68ceb240088857b89735372fd4dba7c03cd7403a"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/privacidade/",
+    "file": "public/privacidade/index.html",
+    "type": "text/html",
+    "bytes": 10617,
+    "sha256": "ea594f8d73ec7411b107c9fad146de11b37b170ed9c73d32090beeb8e8d0b54b"
+  },
+  {
+    "url": "https://coregestaodesaude.com.br/mapa-do-site/",
+    "file": "public/mapa-do-site/index.html",
+    "type": "text/html",
+    "bytes": 9304,
+    "sha256": "1a14c019fa4e793b7505a36f43994e128104164cb93a84c661b6fa7602c5ab26"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "core-gestao",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Cópia fiel do site público CORE Gestão e Tecnologias em Saúde",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "check": "python3 scripts/check.py"
+  },
+  "engines": { "node": ">=20" }
+}
